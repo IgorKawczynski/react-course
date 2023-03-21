@@ -5,7 +5,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="react" width="100" height="100" />
   </a>
 </div>
-<p>Required packages</p>
-<ul>
-  <li>uuid</li>
-</ul>
